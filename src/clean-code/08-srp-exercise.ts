@@ -1,4 +1,6 @@
 (() => {
+  // Fuente: https://gist.github.com/Klerith/8f69dd971ea830497cd3aa49bc9df51a
+
   // Aplicar el principio de responsabilidad única
   // Priorizar la composición frente a la herencia
 

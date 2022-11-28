@@ -1,3 +1,4 @@
+// Fuente: https://github.com/Klerith/clean-course/tree/fin-seccion-02
 class Product {
   constructor(
     public name: string = "",

@@ -1,4 +1,6 @@
 (() => {
+  // Fuente: https://gist.github.com/Klerith/787da77f48c6e513e8326ffe7bce059a
+
   type Gender = "M" | "F";
 
   interface PersonProps {
