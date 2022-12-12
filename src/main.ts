@@ -1,5 +1,8 @@
 import "./style.css";
-import "./clean-code/04-functions-exercises";
+// import './solid/01-srp';
+// import './solid/02-open-close';
+// import './solid/05-liskov';
+import "./solid/08-dependency";
 
 const app = document.querySelector<HTMLDivElement>("#app")!;
 
